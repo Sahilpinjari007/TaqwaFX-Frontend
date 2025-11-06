@@ -21,7 +21,8 @@
     "react-dom": "^19.1.1",
     "react-hot-toast": "^2.6.0",
     "react-intersection-observer": "^10.0.0",
-    "react-router-dom": "^7.9.4"
+    "react-router-dom": "^7.9.4",
+    "rollup": "^4.52.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
